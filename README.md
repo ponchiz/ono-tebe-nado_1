@@ -1,1 +1,1 @@
-https://github.com/ponchiz/ono-tebe-nado_1.git
+https://github.com/ponchiz/ono-tebe-nado_1
